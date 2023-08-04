@@ -5,4 +5,4 @@ Hackathon_Fantastic Bits_Silver League
 To Play the Game:
 
 Go to: https://www.codingame.com/multiplayer/bot-programming/fantastic-bits
- click "JOIN"
+ , and then click "JOIN"
